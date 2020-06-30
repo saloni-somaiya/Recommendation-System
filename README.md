@@ -9,3 +9,9 @@ Collaborative filtering is a technique that can filter out items that a user mig
 2. Item-based recommender on Cuisine dataset
 
 Item-item collaborative filtering, or item-based, or item-to-item, is a form of collaborative filtering for recommender systems based on the similarity between items calculated using people's ratings of those items
+
+Methods used:
+- SVD Matrix Factorization
+- Utility Matrix
+- PearsonR Correlation
+- Cosine Similarity
